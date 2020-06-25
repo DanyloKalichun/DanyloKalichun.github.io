@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/DanyloKalichun/DanyloKalic
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Маршрут
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Тустань на карті](https://goo.gl/maps/PefnbG5HQ4uSj3k3A) and ![Image](src)
+[Карта](https://goo.gl/maps/PefnbG5HQ4uSj3k3A) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
